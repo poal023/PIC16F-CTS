@@ -1,6 +1,9 @@
 # PIC16F1829 Guessing Game
 
-This is an implementation of a password guessing game onto a PIC16F1829 microcontroller. The user interface is shown through an LCD, which is driven by a serial communication bus, known as I2C. The program also lights up LEDs depending on the outcome of the password. If guessed correctly, the LED blinks green with a nice message on the LCD screen. Otherwise, the LED blinks red telling the user their "password" is incorrect.
+This is an implementation of a password guessing game onto a PIC16F1829 microcontroller. The user interface is shown through an LCD, which is driven by a serial communication bus, known as I2C. The program also lights up LEDs depending on the outcome of the password. 
+
+
+If guessed correctly, the LED blinks green with a nice message on the LCD screen. Otherwise, the LED blinks red telling the user their "password" is incorrect.
 
 ## Directions
 
