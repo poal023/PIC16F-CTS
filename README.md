@@ -7,7 +7,9 @@ If guessed correctly, the LED blinks green with a nice message on the LCD screen
 
 ## Directions
 
-In order to get this by yourself, you will of course need a PIC16F1829 microcontroller with LEDs wired up accordingly. I would also recommend the use of MPLAB X IDE, as it will make development much easier and Microchip has the relevant compilers already there for you.
+In order to get this by yourself, you will of course need a PIC16F1829 microcontroller with LEDs wired up accordingly.
+
+I would also recommend the use of MPLAB X IDE, as it will make development much easier and Microchip has the relevant compilers already there for you.
 
 ## Credits
 
