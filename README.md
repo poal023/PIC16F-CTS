@@ -12,6 +12,6 @@ In order to get this by yourself, you will of course need a PIC16F1829 microcont
 
 ## Images
 
-![Password Prompt](prompt.jpg)\
+![Password Prompt on an LCD](prompt.jpg)
 ![Correct Password](goodOutcome.jpg)
 
