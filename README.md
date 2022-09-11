@@ -13,7 +13,7 @@ I would also recommend the use of MPLAB X IDE, as it will make development much 
 
 ## Credits
 
--Hi-Tech Library for providing boilerplate code to drive an LCD using I2C protocol.
+-Hi-Tech Library for providing boilerplate I2C library to drive LCD screen.
 
 ## Images
 
